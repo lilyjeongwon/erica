@@ -4,13 +4,15 @@
 5가지 작물을 키우는 파이썬 pygame 게임입니다.
 
 ## 작물 종류
+- 용과
+- 완두콩
 - 감자
-
-- 사과나무
-
+- 상추
+- 해바라기
+- 
 ## 실행 방법
 ```bash
-pip install -r requirements.txt
+pip install pygame
 python src/main.py
 ```
 
