@@ -9,8 +9,8 @@
 - 감자
 - 상추
 - 해바라기
-- 
-## 실행 방법
+
+  ## 실행 방법
 ```bash
 pip install pygame
 python src/main.py
