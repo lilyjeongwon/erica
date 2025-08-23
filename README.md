@@ -12,7 +12,7 @@
 
   ## 실행 방법
 ```bash
-pip install pygame
+pip install -r requirements.txt
 python src/main.py
 ```
 
